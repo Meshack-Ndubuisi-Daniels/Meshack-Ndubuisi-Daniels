@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meshack-Ndubuisi-Daniels
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in Full stack development, mobile development, machine learning among others but starting and moving gradually
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me: mannyzyg@gmail.com
