@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Meshack-Ndubuisi-Daniels
-- 👀 I’m interested in Full stack development, mobile development, machine learning among others but starting and moving gradually
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Full stack development, mobile development, machine learning among others.
+- 🌱 I’m currently learning HTML and CSS, and everything front end.
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me: mannyzyg@gmail.com
 - 😄 Pronouns: I'm a man
 - ⚡ Fun fact: I never give up in learning. I learning fast and I learn all
-I am dedicating 2 years to learning full stack, mobile development and machine learning. will be putting in at least 5 hours a week. Anyone willing to voluteer to mentor or guide me in any way can email me on mannyzyg@gmail.com. I currently live in the United Kingdom. 
+I am dedicating 2 years to learning full stack, mobile development and machine learning. will be putting in at least 10 hours a week. If you have any projects you want me to work on, or you want a collaboration, please reach out to me ASAP on mannyzyg@gmail.com. I currently live in the United Kingdom. 
 <!---
 Meshack-Ndubuisi-Daniels/Meshack-Ndubuisi-Daniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Happy to update here that I am done with learning HTML, CSS and Javascript from beginner to moderate levels.
+Happy to update here that I am done with learning HTML, CSS and Javascript from beginner to moderate levels. I am also proficient in tailwing CSS and and React.
