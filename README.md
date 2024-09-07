@@ -10,3 +10,4 @@ I am dedicating 2 years to learning full stack, mobile development and machine l
 Meshack-Ndubuisi-Daniels/Meshack-Ndubuisi-Daniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Happy to update here that I am done with learning HTML, CSS and Javascript from beginner to moderate levels.
